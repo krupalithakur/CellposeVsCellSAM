@@ -22,9 +22,7 @@ The aim is to evaluate how well each model performs for cell segmentation tasks 
 
 ## 🚀 Current Focus
 
-- Run baseline inference with both models  
-- Visualise and overlay predictions  
-- Prepare data for evaluation
+- Currently in intial phase for data exploration and baseline model testing
 
 ## 🧠 Key References
 
